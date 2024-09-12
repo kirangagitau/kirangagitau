@@ -1,8 +1,7 @@
 ## Hi there 👋
 **Introduction:**
 
-I am Gitau Muguro, a DevOps engineer from Kisumu, Kenya, with a robust background in IT, software development, and system administration. I specialize in automating infrastructure, optimizing deployment pipelines, and leveraging cloud platforms to enhance scalability and performance. With proficiency in programming languages such as Python, C, and JavaScript, and a deep understanding of UNIX/Linux environments like Kali Linux, I am passionate about building secure, efficient, and resilient systems. My goal is to collaborate with global teams, utilizing DevOps practices to drive continuous integration, delivery, and innovation.
-
+I am Gitau Muguro, a DevOps engineer from Nairobi, Kenya, with a robust background in IT, software development, and system administration. I specialize in automating infrastructure, optimizing deployment pipelines, and leveraging cloud platforms to enhance scalability and performance. With proficiency in programming languages such as Python, C, and JavaScript, and a deep understanding of UNIX/Linux environments like Kali Linux, I am passionate about building secure, efficient, and resilient systems. My goal is to collaborate with global teams, utilizing DevOps practices to drive continuous integration, delivery, and innovation. Additionaly I do network and system administration. Check out my website [sirgitaut.tech](https://srgitau.tech/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
