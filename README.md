@@ -1,9 +1,8 @@
 ## Hi there 👋
+**Introduction:**
 
-<!--
-**kirangagitau/kirangagitau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Gitau Muguro, a DevOps engineer from Kisumu, Kenya, with a robust background in IT, software development, and system administration. I specialize in automating infrastructure, optimizing deployment pipelines, and leveraging cloud platforms to enhance scalability and performance. With proficiency in programming languages such as Python, C, and JavaScript, and a deep understanding of UNIX/Linux environments like Kali Linux, I am passionate about building secure, efficient, and resilient systems. My goal is to collaborate with global teams, utilizing DevOps practices to drive continuous integration, delivery, and innovation.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
