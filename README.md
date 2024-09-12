@@ -10,3 +10,5 @@ I am Gitau Muguro, a DevOps engineer from Nairobi, Kenya, with a robust backgrou
 
 > [!NOTE]
 > I love open source
+
+![215988](https://github.com/user-attachments/assets/577e7c08-6b17-4347-889d-ff163119970d)
